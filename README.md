@@ -65,3 +65,16 @@ Data from the FIRMS of the country Panama was downloaded. In which we had some d
 
 
 The data helped us a lot, since there are no such exact files in other internet sites. 
+
+# References
+https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data
+
+https://firms.modaps.eosdis.nasa.gov/tutorials/
+
+https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/c6-mcd14dl#ed-firms-attributes
+
+https://personal.us.es/vararey/adatos2/correlacion.pdf
+
+https://idescubre.fundaciondescubre.es/noticias/disenan-programa-informatico-calcular-impacto-economico-los-incendios-forestales/
+
+https://towardsdatascience.com/how-to-generate-prediction-intervals-with-scikit-learn-and-python-ab3899f992ed
