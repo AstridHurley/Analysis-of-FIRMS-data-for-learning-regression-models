@@ -1,1 +1,1 @@
-# FRP-fire-radiative-power-data-analysis-for-learning-in-regression-models-
+# FRP fire radiative power data analysis for learning in regression models
